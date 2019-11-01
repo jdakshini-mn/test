@@ -1,0 +1,634 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+
+<channel>
+	<title>Planet Eclipse</title>
+	<link>http://planeteclipse.org/planet/</link>
+	<language>en</language>
+	<description>Planet Eclipse - http://planeteclipse.org/planet/</description>
+
+<item>
+	<title>Tanja Obradovic: Update for Jakarta EE community: June 2019</title>
+	<guid isPermaLink="false">https://blogs.eclipse.org/6711 at https://blogs.eclipse.org</guid>
+	<link>https://blogs.eclipse.org/post/tanja-obradovic/update-jakarta-ee-community-june-2019</link>
+	<description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Last month, we launched a monthly email update for the Jakarta EE community which seeks to highlight news from various committee meetings related to this platform. We have also decided to publish these updates as blogs and share the information that way as well. There are a few ways to get a grip on the work that has been invested in Jakarta EE so far, so if you’d like to learn more about Jakarta EE-related plans and get involved in shaping the future of cloud native Java, read on.&lt;/p&gt;
+
+&lt;p&gt;Without further ado, let’s have a look at what has happened in May:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jakarta EE 8 release and progress&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jakarta EE 8 will be fully compatible with Java EE 8, including use of the javax namespace. The process of driving the Jakarta EE 8 specifications, as well as delivery of the Jakarta EE 8 TCKs, and Jakarta EE 8 compatible implementations will be transparent.&lt;/p&gt;
+
+&lt;p&gt;Mike Milinkovich recently published a FAQ about Jakarta EE 8, in which he offered answers to questions such as  &lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;Will Jakarta EE 8 break existing Java EE applications that rely upon javax APIs?&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;What will Jakarta EE 8 consist of?&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;Will there be Jakarta EE 8 compatible implementations?&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;What is the process for delivery of Jakarta EE 8&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;When will Jakarta EE 8 be delivered?&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Read Mike’s &lt;a href=&quot;https://eclipse-foundation.blog/2019/05/08/jakarta-ee-8-faq/&quot;&gt;blog&lt;/a&gt; to find out what to expect from the Jakarta EE 8 release.&lt;/p&gt;
+
+&lt;p&gt;We need your help with the work on Jakarta EE 8 release. Project teams please get involved in the &lt;a href=&quot;https://github.com/orgs/eclipse-ee4j/projects&quot;&gt;Eclipse EE4J projects &lt;/a&gt;and help out with  &lt;a href=&quot;https://github.com/orgs/eclipse-ee4j/projects/11&quot;&gt;Jakarta Specification Project Names&lt;/a&gt; and &lt;a href=&quot;https://github.com/orgs/eclipse-ee4j/projects/10&quot;&gt;Jakarta Specification Scope Statements.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’d like to get involved in the work for the &lt;a href=&quot;https://github.com/eclipse-ee4j/jakartaee-platform/projects&quot;&gt;Jakarta EE Platform&lt;/a&gt;, there are a few &lt;a href=&quot;https://github.com/eclipse-ee4j/jakartaee-platform/projects&quot;&gt;projects&lt;/a&gt; that require your attention, namely the Jakarta EE 8 Platform Specification, which is meant to keep track of the work involved with creating the platform specification for Jakarta EE 8, Jakarta EE 9 Platform Specification, intended to keep track of the work involved with creating the platform specification for Jakarta EE 9 and Jakarta EE.Next Roadmap Planning, which seeks to define a roadmap and plan for the Jakarta EE 9 release.&lt;/p&gt;
+
+&lt;p&gt;Right now, the fastest way to have a say in the planning and preparation for the Jakarta EE 9 release is by getting involved in the &lt;a href=&quot;https://github.com/eclipse-ee4j/jakartaee-platform/projects/1&quot;&gt;Jakarta EE.Next Roadmap Planning&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Election schedule for Jakarta EE working group committees&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The various facets of the Jakarta EE Working Group are driven by three key committees for which there are elected positions to be filled: the Steering Committee, the Specification Committee, and the Marketing and Brand Committee. The elected positions are to represent each of the Enterprise Members, Participant Members, and Committer Members. Strategic Members each have a representative appointed to these committees.  &lt;/p&gt;
+
+&lt;p&gt;The Eclipse Foundation is holding elections on behalf of the Jakarta EE Working Group using the following proposed timetable:  &lt;/p&gt;
+
+&lt;p&gt;Nomination period:  May 24 - June 4 (self-nominations are welcome)&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Election period:  June 11 - June 25&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Winning candidates announced:  June 27&lt;/p&gt;
+
+&lt;p&gt;All members are encouraged to consider nominating someone for the positions, and self-nominations are welcome. The period for nominations runs through June 4th.  Nominations may be sent to elections@eclipse.org.&lt;/p&gt;
+
+&lt;p&gt;Once nominations are closed, all working group members will be informed about the candidates and ballots will be distributed via email to those eligible to vote.  The election process will follow the Eclipse “Single Transferable Vote” method, as defined in the Eclipse&lt;a href=&quot;https://www.eclipse.org/org/documents/&quot;&gt; Bylaws&lt;/a&gt;.  &lt;/p&gt;
+
+&lt;p&gt;The winning candidates will be announced on this mailing list immediately after the elections are concluded.  &lt;/p&gt;
+
+&lt;p&gt;The following positions will be filled as part of this election:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Steering Committee&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Two seats allocated for Enterprise Members&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;One seat allocated for Participant Members&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;One seat allocated for Committer Members&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Specification Committee&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Two seats allocated for Enterprise Members&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;One seat allocated for Participant Members&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;One seat allocated for Committer Members&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Marketing and Brand Committee&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Two seats allocated for Enterprise Members&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;One seat allocated for Participant Members&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;One seat allocated for Committer Members&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Transitioning Jakarta EE to the jakarta namespace&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The process of migrating Java EE to the Eclipse Foundation has been a collaborative effort between the Eclipse Foundation staff and the many contributors, committers, members, and stakeholders that are participating. Last month, it was revealed that the javax package namespace will not be evolved by the Jakarta EE community and that Java trademarks such as the existing specification names will not be used by Jakarta EE specifications. While these restrictions were not what was originally expected, it might be in Jakarta EE’s best interest as the modification of javax would always have involved long-term legal and trademark restrictions.&lt;/p&gt;
+
+&lt;p&gt;In order to evolve Jakarta EE, we must transition to a new namespace. In an effort to bootstrap the conversation, the Jakarta EE Specification Committee has prepared &lt;a href=&quot;https://docs.google.com/document/d/16xHv34J_r7pA5ZsXg3O0eVAZiC12vVkqWnIqWsoUL74/edit&quot;&gt;two proposals&lt;/a&gt; (Big-bang Jakarta EE 9, Jakarta EE 10 new features and incremental change in Jakarta EE 9 and beyond) on how to make the move into the new namespace smoother. These proposals represent a starting point, but the community is warmly invited to submit more proposals.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://accounts.eclipse.org/mailing-list/jakartaee-platform-dev&quot;&gt;Community discussion&lt;/a&gt; on how to transition to the jakarta namespace concluded Sunday, June 9th, 2019.&lt;/p&gt;
+
+&lt;p&gt;We invite you to read a few blogs on this topic:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://eclipse-foundation.blog/2019/05/03/jakarta-ee-java-trademarks/&quot;&gt;Mike Milinkovich’s blog &lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;http://adambien.blog/roller/abien/entry/java_ee_jakarta_ee_and&quot;&gt;Adam Bien’s blog&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://dmitrykornilov.net/2019/05/03/thoughts-about-jakarta-ee-future-without-javax/&quot;&gt;Dmitry Kornilov’s blog&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://www.agilejava.eu/2019/05/07/transitioning-jakarta-ee-to-the-jakarta-namespace/&quot;&gt;Ivar Grimstad’s blog&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;http://londonjavacommunity.co.uk/java-ee-to-jakarta-ee-and-the-javax-trademark-decision/&quot;&gt;Martijn Verburg’s blog&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://www.javacodegeeks.com/2019/05/jakarta-ee-clean-slate.html&quot;&gt;Alex Theedom’s blog&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://blog.payara.fish/jakarta-ee-8-and-beyond&quot;&gt;Steve Millidge’s blog&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://www.tomitribe.com/blog/jakarta-ee-a-new-hope/&quot;&gt;David Blevins’ blog&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://openliberty.io/blog/2019/05/08/jakarta-ee-naming.html&quot;&gt;Alasdair Nottingham’s blog&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://blog.sebastian-daschner.com/entries/thoughts-on-jakarta-package-name&quot;&gt;Sebastian Daschner’s blog&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://struberg.wordpress.com/2019/05/06/the-way-forward-for-jakartaee-packages/&quot;&gt;Mark Struberg’s blog&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?time_continue=1&amp;amp;v=jSyamH1JYuI&quot;&gt;Tanja Obradovic’s interview at JAX 2019&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;2019 Jakarta EE Developer Survey Results&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Eclipse Foundation recently released the results of the &lt;a href=&quot;https://jakarta.ee/documents/insights/2019-jakarta-ee-developer-survey.pdf&quot;&gt;2019 Jakarta EE developer survey&lt;/a&gt; that canvassed nearly 1,800 Java developers about trends in enterprise Java programming and their adoption of cloud native technologies. The aim of the survey, which was conducted by the Foundation in March of 2019 in cooperation with member companies and partners, including the London Java Community and Java User Groups, was to help Java ecosystem stakeholders better understand the requirements, priorities, and perceptions of enterprise Java developer communities.&lt;/p&gt;
+
+&lt;p&gt;A third of developers surveyed are currently building cloud native architectures and another 30 percent are planning to within the next year. Furthermore, the number of Java applications running in the cloud is expected to increase significantly over the next two years, with 32 percent of respondents hoping to run nearly two-thirds of their Java applications in the cloud in two years’ time. Also, over 40 percent of respondents are using the microservices architecture to implement Java in the cloud.&lt;/p&gt;
+
+&lt;p&gt;Access the full findings of the 2019 Java Community Developer Survey &lt;a href=&quot;https://jakarta.ee/documents/insights/2019-jakarta-ee-developer-survey.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Community engagement&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Jakarta EE community promises to be a very active one, especially given the various channels that can be used to stay up-to-date with all the latest and greatest. Tanja Obradovic’s &lt;a href=&quot;https://blogs.eclipse.org/post/tanja-obradovic/jakarta-ee-community-engagement&quot;&gt;blog&lt;/a&gt; offers a sneak peek at the community engagement plan, which includes&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;Social media: &lt;a href=&quot;https://twitter.com/jakartaee&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/JakartaEE/&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/groups/13597511/&quot;&gt;LinkedIn Group&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;Mailing lists: subscribe to the following mailing lists: &lt;a href=&quot;mailto:jakarta.ee-community@eclipse.org&quot;&gt;jakarta.ee-community@eclipse.org&lt;/a&gt; &amp;amp; &lt;a href=&quot;mailto:jakarta.ee-wg@eclipse.org&quot;&gt;jakarta.ee-wg@eclipse.org&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;Newsletter / Blogs / emails: &lt;a href=&quot;https://www.eclipse.org/community/eclipse_newsletter/&quot;&gt;Eclipse Newsletter&lt;/a&gt;, &lt;a href=&quot;https://jakartablogs.ee/&quot;&gt;Jakarta Blogs&lt;/a&gt;, monthly update emails to &lt;a href=&quot;mailto:jakarta.ee-community@eclipse.org&quot;&gt;jakarta.ee-community@eclipse.org&lt;/a&gt; and community blogs on &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1JflN_xJ9d5ZWu5VUbDV9Spj7mc8WuPGMfd6EZgabXz0/edit#gid=0&quot;&gt;“how are you involved with Jakarta EE” &lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li dir=&quot;ltr&quot;&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;Meetings: &lt;a href=&quot;https://www.meetup.com/jakartatechtalks_/&quot;&gt;Jakarta Tech Talks&lt;/a&gt;, &lt;a href=&quot;https://calendar.google.com/calendar/embed?src=eclipse-foundation.org_3281qms6riu4kdf354jn5idon0%40group.calendar.google.com&amp;amp;ctz=America%2FToronto&quot;&gt;Jakarta EE Update&lt;/a&gt;, Jakarta Town Hall, EF organized Events and Conferences, JakartaOne Livestream, &lt;a href=&quot;https://www.eclipsecon.org/europe2019&quot;&gt;EclipseCon Europe&lt;/a&gt;&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For more information about community engagement, read Tanja Obradovic’s &lt;a href=&quot;https://blogs.eclipse.org/post/tanja-obradovic/jakarta-ee-community-engagement&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jakarta EE Wiki&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Have you checked out the &lt;a href=&quot;https://wiki.eclipse.org/Jakarta_EE&quot;&gt;Jakarta EE Wiki&lt;/a&gt; yet? It includes important information such as process guidelines, documentation, Eclipse guides and mailing lists, Jakarta EE Working Group essentials and more.  &lt;/p&gt;
+
+&lt;p&gt;Keep in mind that this page is a work in progress and is expected to evolve in the upcoming weeks and months. The community’s input and suggestions are welcome and appreciated!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jakarta EE Community Update: May video call&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The most recent Jakarta EE Community Update meeting took place in May; the conversation included topics such as the Jakarta EE progress so far, Jakarta EE Rights to Java Trademarks, the transition from javax namespace to the jakarta namespace (mapping javax to jakarta, when repackaging is required and when migration to namespaces is not required) and how to maximize compatibility with Java EE 8 and Jakarta EE for future versions without stifling innovation, the Jakarta EE 8 release, PMC/ Projects update and more.&lt;/p&gt;
+
+&lt;p&gt;The minutes of the Jakarta EE community update meeting are available &lt;a href=&quot;https://docs.google.com/document/d/1TH_p_m-z3v9HZyhgwW41JzXWTFIwrClGLaSDIy0Sf5w/edit&quot;&gt;here&lt;/a&gt; and the recorded Zoom video conversation can be found &lt;a href=&quot;https://www.youtube.com/watch?v=bCK3kRiYz-o&amp;amp;feature=youtu.be&quot;&gt;here&lt;/a&gt;.  &lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Jakarta EE presence at conferences: May overview&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Cloud native was the talk of the town in May. Conferences such as &lt;a href=&quot;https://jax.de/en/&quot;&gt;JAX 2019&lt;/a&gt;,&lt;a href=&quot;https://www.redhat.com/en/summit/2019&quot;&gt; Red Hat Summit 2019&lt;/a&gt; and &lt;a href=&quot;https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/&quot;&gt;KubeCon + CloudNativeCon Europe 2019&lt;/a&gt; were all about cloud native and how to tap into this key approach for IT modernization success and the Eclipse Foundation was there to take a pulse of the community to better understand the adoption of cloud native technologies.&lt;/p&gt;
+
+&lt;p&gt;Don’t forget to check out Tanja Obradovic’s &lt;a href=&quot;https://www.youtube.com/watch?time_continue=1&amp;amp;v=jSyamH1JYuI&quot;&gt;video interview&lt;/a&gt; about the future of Jakarta EE at JAX 2019.  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.eclipsecon.org/europe2019&quot;&gt;EclipseCon Europe 2019&lt;/a&gt;: Call for Papers open until July 15&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s that time of year again! You can now submit your proposals to be part of EclipseCon Europe 2019’s speaker lineup. The conference takes place in Ludwigsburg, Germany on October 21 - 24, 2019. Early bird submissions are due July 1, and the final deadline is July 15. Check out &lt;a href=&quot;https://blogs.eclipse.org/post/jameka-woodberry/eclipsecon-europe-2019-call-papers-open-until-july-15-submit-talk-today&quot;&gt;Jameka's blog&lt;/a&gt; and &lt;a href=&quot;https://www.eclipsecon.org/europe2019/cfp&quot;&gt;submit&lt;/a&gt; your talk today!&lt;/p&gt;
+
+&lt;p&gt;We are also working on&lt;strong&gt; &lt;a href=&quot;http://jakartaone.org&quot;&gt;JakartaOne Livestream conference&lt;/a&gt;, &lt;/strong&gt;scheduled for September 10th&lt;strong&gt;. Call for Papers are open until July 1st&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Thank you for your interest in Jakarta EE. Help steer Jakarta EE toward its exciting future by subscribing to the &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=0tSsQkMPqlAqlO58_0kVZUNJvuApIvPd9ayj0AoAaLggLeHBBrGJlAx-F0VJJtTwdnpi0CXR-1YRnE0ETgmQeRHNh2sqtFxkPMsi-Ulu_yk=&quot;&gt;jakarta.ee-wg@eclipse.org&lt;/a&gt; mailing list and by joining the Jakarta EE Working Group.&lt;/p&gt;
+
+&lt;p&gt;To learn more about the collaborative efforts to build tomorrow’s enterprise Java platform for the cloud, check out the &lt;a href=&quot;https://jakartablogs.ee/&quot;&gt;Jakarta Blogs&lt;/a&gt; and participate in the monthly &lt;a href=&quot;https://www.meetup.com/jakartatechtalks_/&quot;&gt;Jakarta Tech Talks&lt;/a&gt;. Don’t forget to subscribe to the Eclipse &lt;a href=&quot;https://www.eclipse.org/community/eclipse_newsletter/&quot;&gt;newsletter&lt;/a&gt;!  &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-blog-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags: &lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/jakartaee-javaee-java-eclipsefdn&quot;&gt;#JakartaEE #JavaEE #Java #EclipseFdn&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Thu, 20 Jun 2019 14:01:59 +0000</pubDate>
+</item>
+<item>
+	<title>Vladimir Piskarev: Eclipse Handly 1.2 Released</title>
+	<guid isPermaLink="false">http://pisv.wordpress.com/?p=703</guid>
+	<link>https://pisv.wordpress.com/2019/06/19/eclipse-handly-1-2-released/</link>
+	<description>&lt;p&gt;Eclipse &lt;a href=&quot;https://www.eclipse.org/handly&quot;&gt;Handly&lt;/a&gt; &lt;a href=&quot;https://projects.eclipse.org/projects/technology.handly/releases/1.2&quot;&gt;1.2&lt;/a&gt; has just been released. This release is focused on further enhancements to UI components. Particularly, it provides a framework for creating a full-featured Call Hierarchy view.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://wiki.eclipse.org/Handly/New_and_Noteworthy/1.2&quot;&gt;New and Noteworthy&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://wiki.eclipse.org/Handly/Migration/1.2&quot;&gt;Migration Guide&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://projects.eclipse.org/projects/technology.handly/downloads&quot;&gt;Downloads&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Wed, 19 Jun 2019 18:50:18 +0000</pubDate>
+</item>
+<item>
+	<title>Webtools News: WTP 3.14 Released!</title>
+	<guid isPermaLink="false">http://www.eclipse.org/webtools/news.php#permalink188</guid>
+	<link>http://eclipse.org/webtools/releases/3.14</link>
+	<description>&lt;div&gt;
+		The Eclipse Web Tools Platform 3.14 has been released!
+		&lt;a href=&quot;https://wiki.eclipse.org/WTP_FAQ#How_do_I_install_WTP.3F&quot;&gt;Installation&lt;/a&gt;
+		and updates can be performed using the
+		Eclipse IDE 2019-06
+		&lt;a href=&quot;http://download.eclipse.org/releases/2019-06/&quot;&gt;Update Site&lt;/a&gt;
+		or through the
+		&lt;a href=&quot;https://marketplace.eclipse.org/user/nitind/listings&quot;&gt;Eclipse Marketplace&lt;/a&gt;
+		.
+		Release 3.14 is included in the 2019-06
+		&lt;a href=&quot;https://www.eclipse.org/downloads/packages/release/2019-06/r/eclipse-ide-enterprise-java-developers&quot;&gt;
+			Eclipse IDE for Enterprise Java Developers
+		&lt;/a&gt;
+		, with selected portions also included in 9
+		&lt;a href=&quot;http://www.eclipse.org/downloads/compare.php&quot;&gt;other packages&lt;/a&gt;
+		. Adopters can download
+		&lt;a href=&quot;http://download.eclipse.org/webtools/downloads/&quot;&gt;the R3.14 update site itself&lt;/a&gt;
+		directly and combine it with the necessary dependencies.&lt;/div&gt;&lt;p&gt;&lt;a href=&quot;http://www.eclipse.org/webtools/news.php#permalink188&quot;&gt;More news&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Wed, 19 Jun 2019 15:14:59 +0000</pubDate>
+</item>
+<item>
+	<title>itemis: Xtext 2.18 – released!</title>
+	<guid isPermaLink="true">https://blogs.itemis.com/en/xtext-2.18-released</guid>
+	<link>https://blogs.itemis.com/en/xtext-2.18-released</link>
+	<description>&lt;p&gt;The team around project lead Christian Dietrich has released version 2.18 of Xtext and Xtend. This version is also the one that enters the Eclipse release train number 2019-06, departing on time at June 19th. &lt;/p&gt; 
+&lt;p&gt;More than 40 helping hands have made this Xtext release possible over the last quarter. A big shout-out especially to the first-time contributors! We are thankful for every reported issue, comment to a discussion, and proposed patch.&lt;/p&gt; 
+&lt;p&gt;Even though the &lt;strong&gt;main focus&lt;/strong&gt; was on &lt;strong&gt;stability and robustness&lt;/strong&gt;, a couple of &lt;strong&gt;new features&lt;/strong&gt; have been made available, too.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;h2&gt;Playing catch-up with Java&lt;/h2&gt; 
+&lt;p&gt;Xtend eventually learned to understand the ternary expression and got support for try-with-resources. While the former is just expressing a matter of taste, being able to efficiently deal with closable resources is a big win. Forgetting to close a stream or a connection is just a little harder when you can benefit from the compiler auto-closing the thing. This is also available in legacy scenarios where code is still required to run on ancient Java versions.&lt;/p&gt; 
+&lt;p&gt;Both features were implemented by &lt;em&gt;&lt;a href=&quot;https://hosting.itemis.de/author/eva-p%C3%B6ll&quot; title=&quot;Learn more about Eva Poell&quot;&gt;Eva Poell&lt;/a&gt;&lt;/em&gt;, intern for 6 weeks at our Berlin office. We are thankful for her great work!&lt;/p&gt; 
+&lt;h2&gt;Improved “find references” view&lt;/h2&gt; 
+&lt;p&gt;When exploring a code base, software engineers navigate back and forth through the source, especially between references and declarations. If you want to take notes on the usage of a DSL concept, you can copy it directly from the “search results” page. Also, if you only want to deal with a subset of the results, it’s now possible to remove matches from the view.&lt;/p&gt; 
+&lt;p&gt; &lt;/p&gt; 
+&lt;p&gt;&lt;img alt=&quot;Improved Find References View&quot; src=&quot;https://blogs.itemis.com/hs-fs/hubfs/Blog%20(2019)/Software%20Development/Xext%202.18%20Released/Improved%20Find%20References%20View.png?width=1096&amp;amp;name=Improved%20Find%20References%20View.png&quot; style=&quot;width: 1096px;&quot; width=&quot;1096&quot; /&gt;&lt;/p&gt; 
+&lt;h2&gt;New quick fixes for the Xtext grammar&lt;/h2&gt; 
+&lt;p&gt;The Xtext grammar editor received some love in this release cycle, too. The validation problems around invalid empty keywords can be automatically fixed from now on. Either a reasonable default is inserted, or the keyword is removed – it’s your call.&lt;/p&gt; 
+&lt;p&gt;&lt;img alt=&quot;Xtext Grammar Editor&quot; src=&quot;https://blogs.itemis.com/hs-fs/hubfs/Blog%20(2019)/Software%20Development/Xext%202.18%20Released/Xtext%20Grammar%20Editor.png?width=694&amp;amp;name=Xtext%20Grammar%20Editor.png&quot; style=&quot;width: 694px;&quot; width=&quot;694&quot; /&gt;&lt;/p&gt; 
+&lt;h2&gt;Rename refactoring&lt;/h2&gt; Long-running rename operations can now be cancelled by the user. Instead of waiting for the computation to finish and reverting the outcome, accidentally triggered renames are no longer a painful experience. 
+&lt;h2&gt;Rename class quick fix&lt;/h2&gt; Talking about renames: Even though Xtend allows to define as many public types per file as you want, it is a common usage pattern to have a single top-level class per file. If names get out of sync because of a change of mind, a quick fix is offered to align the two of them. If you decide to rename the type, a proper rename operation is triggered, and all the references are updated along with the declaration. 
+&lt;h2&gt;Language server fixes&lt;/h2&gt; The Xtext support for the Language Server Protocol has been improved in different areas. Extension implementations do now have access to the indexed resources, and the reporting of build results was fixed. Formerly, some notifications may have got lost such that the editors did not get any events about completed builds. The communication in the other direction was fixed, too. Sometimes the server did miss a couple of changed resources, thus its index information diverged from the code on disk. 
+&lt;h2&gt;Eclipse robustness&lt;/h2&gt; A few rarely-occurring issues around the startup of Eclipse and the processing of deleted projects have been fixed. It did not happen often, but if you were bitten by that bug, it was rather annoying. These issues have been resolved. 
+&lt;h2&gt;Your turn&lt;/h2&gt; The team is proud of the achievements in this release cycle. But we are also eager to know what your thoughts on this are. If you are missing a certain feature or do have suggestions how to improve Xtext or Xtend, just drop us a note and we are happy to discuss your ideas.  
+&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://track.hubspot.com/__ptq.gif?a=761475&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fblogs.itemis.com%2Fen%2Fxtext-2.18-released&amp;amp;bu=https%253A%252F%252Fblogs.itemis.com&amp;amp;bvt=rss&quot; style=&quot;width: 1px!important;&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 18 Jun 2019 10:31:03 +0000</pubDate>
+	<author>sebastian.zarnekow@itemis.de (Sebastian Zarnekow)</author>
+</item>
+<item>
+	<title>Tanja Obradovic: JCP Copyright Licensing request</title>
+	<guid isPermaLink="false">https://blogs.eclipse.org/6709 at https://blogs.eclipse.org</guid>
+	<link>https://blogs.eclipse.org/post/tanja-obradovic/jcp-copyright-licensing-request</link>
+	<description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;The open source community has welcomed Oracle’s contribution of Java EE into Eclipse Foundation, under the new name Jakarta EE. As part of this huge effort and transfer, we want to ensure that we have the necessary rights so we can evolve the specifications under the new  &lt;a href=&quot;https://jakarta.ee/about/jesp/&quot;&gt;Jakarta EE Specification Process&lt;/a&gt;. For this, we need your help!&lt;/p&gt;
+
+&lt;p&gt;We must request copyright licenses from all past contributors to Java EE specifications under the &lt;a href=&quot;http://jcp.org&quot;&gt;JCP&lt;/a&gt;. Hence, we are reaching out to all companies and individuals who made contributions to Java EE in the past to help out, execute the agreements and return them back to Eclipse Foundation. As the advancement of the specifications and the technology is in question, we would greatly appreciate your prompt response. Oracle, Red Hat, IBM, and many others in the community have already signed an agreement to license their contributions to Java EE specifications to the Eclipse Foundation. We are also counting on the JCP community to be supportive of this request.&lt;/p&gt;
+
+&lt;p&gt;The request is for JCP contributors to Java EE specifications, once you receive an email from the Eclipse Foundation regarding this, please get back to us as soon as you can!&lt;/p&gt;
+
+&lt;p&gt;Should you have any questions regarding the request for copyright licenses from all past contributors, please contact &lt;a href=&quot;mailto:mariateresa.delgado@eclipse-foundation.org&quot;&gt;mariateresa.delgado@eclipse-foundation.org&lt;/a&gt; who is leading us all through this process.&lt;/p&gt;
+
+&lt;p&gt;Many thanks!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-blog-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags: &lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/jakartaee-javaee-java-eclipsefdn&quot;&gt;#JakartaEE #JavaEE #Java #EclipseFdn&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Mon, 17 Jun 2019 18:20:19 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: Eclipse Individual Committer Agreement 4.0 Update</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/0r6S9dYfa14/eclipse-individual-committer-agreement-40-update</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/0r6S9dYfa14/eclipse-individual-committer-agreement-40-update</link>
+	<description>On June 13th, we retired all versions of the  Eclipse Individual Committer Agreement (ICA) prior to version 4.0. Update yours today!&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/0r6S9dYfa14&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Mon, 17 Jun 2019 14:05:00 +0000</pubDate>
+</item>
+<item>
+	<title>InfoQ Eclipse feed: Eclipse Introduces New IDE-Agnostic Tools for Building and Deploying Cloud-Native Applications</title>
+	<guid isPermaLink="true">https://www.infoq.com/news/2019/06/eclipse-codewind?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Eclipse</guid>
+	<link>https://www.infoq.com/news/2019/06/eclipse-codewind?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Eclipse</link>
+	<description>&lt;img src=&quot;https://www.infoq.com/styles/i/logo_bigger.jpg&quot; /&gt;&lt;p&gt;Eclipse Codewind is a new developer-centric project from the Eclipse Foundation that aims to assist developers by providing ways to quickly and consistently accomplish tasks that are common to cloud-native application development.&lt;/p&gt; &lt;i&gt;By Dustin Schultz&lt;/i&gt;</description>
+	<pubDate>Mon, 17 Jun 2019 05:35:00 +0000</pubDate>
+</item>
+<item>
+	<title>Lorenzo Bettini: My new book on TDD, Build Automation and Continuous Integration</title>
+	<guid isPermaLink="false">http://www.lorenzobettini.it/?p=1179</guid>
+	<link>http://www.lorenzobettini.it/2019/06/my-new-book-on-tdd-build-automation-and-continuous-integration/</link>
+	<description>&lt;p&gt;I haven’t been blogging for some time now. I’m getting back to blogging by announcing my new book on TDD (Test-Driven Development), Build Automation and Continuous Integration.&lt;/p&gt;
+
+
+
+&lt;p&gt;The title is indeed, “&lt;strong&gt;Test-Driven Development, Build Automation, Continuous Integration&lt;br /&gt; (with Java, Eclipse and friends)&lt;/strong&gt;” and can be bought from &lt;a href=&quot;https://leanpub.com/tdd-buildautomation-ci&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;https://leanpub.com/tdd-buildautomation-ci&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p&gt;The main goal of the book is to get you started with Test-Driven Development (write tests before the code), Build Automation (make the overall process of compilation and testing automatic with Maven) and Continuous Integration (commit changes and a server will perform the whole build of your code). Using Java, Eclipse and their ecosystems.&lt;/p&gt;
+
+
+
+&lt;p&gt;The main subject of this book is software testing. The main premise is that testing is a crucial part of software development. You need to make sure that the software you write behaves correctly. You can manually test your software. However, manual tests require lots of manual work and it is error prone.&lt;/p&gt;
+
+
+
+&lt;p&gt;On the contrary, this book focuses on automated tests, which can be done at several levels. In the book we will see a few types of tests, starting from those that test a single component in isolation to those that test the entire application. We will also deal with tests in the presence of a database and with tests that verify the correct behavior of the graphical user interface.&lt;/p&gt;
+
+
+
+&lt;p&gt;In particular, we will describe and apply the Test-Driven Development methodology, writing tests before the actual code.&lt;/p&gt;
+
+
+
+&lt;p&gt;Throughout the book we will use Java as the main programming language. We use Eclipse as the IDE. Both Java and Eclipse have a huge ecosystem of “friends”, that is, frameworks, tools and plugins. Many of them are related to automated tests and perfectly fit the goals of the book. We will use JUnit throughout the book as the main Java testing framework.&lt;/p&gt;
+
+
+
+&lt;p&gt;it is also important to be able to completely automate the build process. In fact, another relevant subject of the book is Build Automation. We will use one of the mainstream tools for build automation in the Java world, Maven.&lt;/p&gt;
+
+
+
+&lt;p&gt;We will use Git as the Version Control System and GitHub as the hosting service for our Git repositories. We will then connect our code hosted on GitHub with a cloud platform for Continuous Integration. In particular, we will use Travis CI. With the Continuous Integration process, we will implement a workflow where each time we commit a change in our Git repository, the CI server will automatically run the automated build process, compiling all the code, running all the tests and possibly create additional reports concerning the quality of our code and of our tests.&lt;/p&gt;
+
+
+
+&lt;p&gt;The code quality of tests can be measured in terms of a few metrics using code coverage and mutation testing. Other metrics are based on static analysis mechanisms, inspecting the code in search of bugs, code smells and vulnerabilities. For such a static analysis we will use SonarQube and its free cloud version SonarCloud.&lt;/p&gt;
+
+
+
+&lt;p&gt;When we need our application to connect to a service like a database, we will use Docker a virtualization program, based on containers, that is much more lightweight than standard virtual machines. Docker will allow us to&lt;/p&gt;
+
+
+
+&lt;p&gt;configure the needed services in advance, once and for all, so that the services running in the containers will take part in the reproducibility of the whole build infrastructure. The same configuration of the services will be used in our development environment, during build automation and in the CI server.&lt;/p&gt;
+
+
+
+&lt;p&gt;Most of the chapters have a “tutorial” nature. Besides a few general explanations of the main concepts, the chapters will show lots of code. It should be straightforward to follow the chapters and write the code to reproduce the examples. All the sources of the examples are available on GitHub.&lt;/p&gt;
+
+
+
+&lt;p&gt;The main goal of the book is to give the basic concepts of the techniques and tools for testing, build automation and continuous integration. Of course, the descriptions of these concepts you find in this book are far from being exhaustive. However, you should get enough information to get started with all the presented techniques and tools.&lt;/p&gt;
+
+
+
+&lt;p&gt;I hope you enjoy the book &lt;img alt=&quot;🙂&quot; class=&quot;wp-smiley&quot; src=&quot;https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f642.png&quot; style=&quot;height: 1em;&quot; /&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt; &lt;/p&gt;</description>
+	<pubDate>Wed, 12 Jun 2019 16:59:24 +0000</pubDate>
+</item>
+<item>
+	<title>JBoss Tools Team: JBoss Tools 4.12.0.AM1 for Eclipse 2019-06</title>
+	<guid isPermaLink="true">https://tools.jboss.org/blog/4.12.0.am1.html</guid>
+	<link>https://tools.jboss.org/blog/4.12.0.am1.html</link>
+	<description>&lt;div&gt;&lt;div id=&quot;preamble&quot;&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Happy to announce 4.12.0.AM1 (Developer Milestone 1) build for Eclipse 2019-06.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Downloads available at &lt;a href=&quot;https://tools.jboss.org/downloads/jbosstools/2019-06/4.12.0.AM1.html&quot;&gt;JBoss Tools 4.12.0 AM1&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;what-is-new&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#what-is-new&quot;&gt;&lt;/a&gt;What is New?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Full info is at &lt;a href=&quot;https://tools.jboss.org/documentation/whatsnew/jbosstools/4.12.0.AM1.html&quot;&gt;this page&lt;/a&gt;. Some highlights are below.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;server-tools&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#server-tools&quot;&gt;&lt;/a&gt;Server Tools&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;wildfly-17-server-adapter&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#wildfly-17-server-adapter&quot;&gt;&lt;/a&gt;Wildfly 17 Server Adapter&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;A server adapter has been added to work with Wildfly 17. It adds support for Java EE 8.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Enjoy!&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Jeff Maury&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Wed, 12 Jun 2019 11:05:17 +0000</pubDate>
+</item>
+<item>
+	<title>Karsten Thoms: Eclipse Tycho: Disable p2 dependency resolution with tycho.mode=maven</title>
+	<guid isPermaLink="false">http://kthoms.wordpress.com/?p=1023</guid>
+	<link>https://kthoms.wordpress.com/2019/06/12/eclipse-tycho-disable-p2-dependency-resolution-with-tycho-modemaven/</link>
+	<description>&lt;p&gt;In Eclipse Tycho based builds the first step is always computation of the target platform and depedency resolution. This takes quite some time and in certain use cases it is not necessary. Typical use cases are updating versions with the &lt;a href=&quot;https://www.eclipse.org/tycho/sitedocs/tycho-release/tycho-versions-plugin/set-version-mojo.html&quot;&gt;tycho-versions-plugin&lt;/a&gt;, or displaying the effective pom with &lt;code&gt;help:effective-pom&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The p2 target platform &amp;amp; dependency resolution can be skipped by setting the &lt;code&gt;tycho-mode&lt;/code&gt; system property:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;mvn -Dtycho.mode=maven &amp;lt;goals&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This useful feature is a bit hidden in just a few posts, e.g. &lt;a href=&quot;https://www.eclipse.org/lists/tycho-user/msg06439.html&quot;&gt;https://www.eclipse.org/lists/tycho-user/msg06439.html&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Wed, 12 Jun 2019 01:31:39 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: 2019 Annual Eclipse Foundation Community Report</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/tnHENPtCA8c/annual_report.php</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/tnHENPtCA8c/annual_report.php</link>
+	<description>Read the eighth annual Eclipse Foundation Community Report! Comments and feedback on the style and content are welcome!&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/tnHENPtCA8c&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 11 Jun 2019 18:05:00 +0000</pubDate>
+</item>
+<item>
+	<title>Thabang Mashologu: Welcome Shabnam!</title>
+	<guid isPermaLink="false">https://blogs.eclipse.org/6707 at https://blogs.eclipse.org</guid>
+	<link>https://blogs.eclipse.org/post/thabang-mashologu/welcome-shabnam</link>
+	<description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;I am happy to announce that Shabnam Mayel has joined the Eclipse Foundation as a Senior Marketing Lead, Cloud Native Java. &lt;/p&gt;
+
+&lt;p&gt;Shabnam brings with her several years of diverse marketing, business development, and technical sales experience. Most recently, she led marketing and brand management initiatives for tech startups in Southeast Asia. She holds an electronics engineering degree, an MBA and a Ph.D. in management. She is based in Toronto.&lt;/p&gt;
+
+&lt;p&gt;Shabnam will be responsible for developing and implementing global marketing programs to grow the awareness of and participation in Jakarta EE, Eclipse MicroProfile, and other Foundation projects in the cloud native application space.&lt;/p&gt;
+
+&lt;p&gt;Please join me in welcoming Shabnam to the Eclipse community!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-blog-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags: &lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/jakartaee&quot;&gt;#JakartaEE&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/microprofile&quot;&gt;MicroProfile&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/cloud-native&quot;&gt;cloud native&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/eclipse-foundation&quot;&gt;Eclipse Foundation&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/marketing-0&quot;&gt;Marketing&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Wed, 05 Jun 2019 09:13:08 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: Jakarta Newsletter May 2019: Onwards and Upwards for the Jakarta Community</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/2-szhlcd_TI/jakarta-newsletter-may-2019-onwards-and-upwards-jakarta-community</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/2-szhlcd_TI/jakarta-newsletter-may-2019-onwards-and-upwards-jakarta-community</link>
+	<description>The elected positions are to represent each of the Enterprise Members, Participant Members, and Committer Members.&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/2-szhlcd_TI&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 04 Jun 2019 13:15:00 +0000</pubDate>
+</item>
+<item>
+	<title>JBoss Tools Team: Integration Tooling for Eclipse 2019-03</title>
+	<guid isPermaLink="true">https://tools.jboss.org/blog/integration-stack-4.11.0.Final.html</guid>
+	<link>https://tools.jboss.org/blog/integration-stack-4.11.0.Final.html</link>
+	<description>&lt;div&gt;&lt;div id=&quot;preamble&quot;&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Check out our new branding for Eclipse 2019-03.  We’re now Red Hat CodeReady Studio 12 Integration Stack.&lt;/strong&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;crstudio12&quot; src=&quot;https://tools.jboss.org/blog/images/crstudio12.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;JBoss Tools Integration Stack 4.11.0.Final / Red Hat CodeReady Studio Integration Stack 12.11.0.GA&lt;/strong&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;admonitionblock note&quot;&gt;
+      &lt;table&gt;
+      &lt;tbody&gt;&lt;tr&gt;
+      &lt;td class=&quot;icon&quot;&gt;
+      &lt;i class=&quot;fa icon-note&quot; title=&quot;Note&quot;&gt;&lt;/i&gt;
+      &lt;/td&gt;
+      &lt;td class=&quot;content&quot;&gt;
+      All of the Integration Stack components have been verified to work with the same dependencies as JBoss Tools 4.11 and Red Hat CodeReady Studio 12.
+      &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;what-s-new-for-this-release&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#what-s-new-for-this-release&quot;&gt;&lt;/a&gt;What’s new for this release?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;DataVirtualization support from Teiid Designer is no longer available through the Integration Stack.  It can be installed directly from &lt;a href=&quot;http://download.jboss.org/jbosstools/photon/stable/updates/integration-stack/teiiddesigner&quot;&gt;Teiid Designer&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;This release has an updated BPMN2 Modeler and jBPM/Drools/KIE.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;released-tooling-highlights&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#released-tooling-highlights&quot;&gt;&lt;/a&gt;Released Tooling Highlights&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;business-process-and-rules-development&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#business-process-and-rules-development&quot;&gt;&lt;/a&gt;Business Process and Rules Development&lt;/h4&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;bpmn2-modeler-known-issues&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#bpmn2-modeler-known-issues&quot;&gt;&lt;/a&gt;BPMN2 Modeler Known Issues&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;See the &lt;a href=&quot;https://access.redhat.com/documentation/en-us/red_hat_codeready_studio_integration_stack/12.11/html/12.11.0_release_notes_and_known_issues/known_issues#bpmn2_1_5_1_final_2&quot;&gt;BPMN2 1.5.1.Final Known Issues Section&lt;/a&gt; of the Integration Stack 12.11.0.GA release notes.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;drools-jbpm6-known-issues&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#drools-jbpm6-known-issues&quot;&gt;&lt;/a&gt;Drools/jBPM6 Known Issues&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;See the &lt;a href=&quot;https://access.redhat.com/documentation/en-us/red_hat_codeready_studio_integration_stack/12.11/html/12.11.0_release_notes_and_known_issues/resolved_issues#drools_7_21_0_final&quot;&gt;Drools 7.21.0.Final Known Issues Section&lt;/a&gt; of the Integration Stack 12.11.0.GA release notes.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;what-s-an-integration-stack&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#what-s-an-integration-stack&quot;&gt;&lt;/a&gt;What’s an Integration Stack?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Red Hat CodeReady Studio Integration Stack is a set of Eclipse-based development tools. It further enhances the IDE functionality provided by Developer Studio, with plug-ins specifically for use when developing for other Red Hat products.  It’s where BRMS tooling is aggregated.  The following frameworks are supported:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;red-hat-business-process-and-rules-development&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#red-hat-business-process-and-rules-development&quot;&gt;&lt;/a&gt;Red Hat Business Process and Rules Development&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Business Process and Rules Development plug-ins provide design, debug and testing tooling for developing business processes for Red Hat BRMS and Red Hat BPM Suite.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://tools.jboss.org/features/bpel.html&quot;&gt;BPEL Designer&lt;/a&gt; - Orchestrating your business processes.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://tools.jboss.org/features/bpmn2.html&quot;&gt;BPMN2 Modeler&lt;/a&gt; - A graphical modeling tool which allows creation and editing of Business Process Modeling Notation diagrams using graphiti.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://tools.jboss.org/features/drools.html&quot;&gt;Drools&lt;/a&gt; - A Business Logic integration Platform which provides a unified and integrated platform for Rules, Workflow and Event Processing including KIE.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;&lt;a href=&quot;https://tools.jboss.org/features/jbpm.html&quot;&gt;jBPM&lt;/a&gt; - A flexible Business Process Management (BPM) suite.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;the-jboss-tools-website-features-tab&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#the-jboss-tools-website-features-tab&quot;&gt;&lt;/a&gt;The JBoss Tools website features tab&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Don’t miss the &lt;a href=&quot;https://tools.jboss.org/features&quot;&gt;Features tab&lt;/a&gt; for up to date information on your favorite Integration Stack components.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;installation&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#installation&quot;&gt;&lt;/a&gt;Installation&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The easiest way to install the Integration Stack components is through the &lt;a href=&quot;https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?downloadType=distributions&amp;amp;product=jbossdeveloperstudio&amp;amp;version=12.11.0&quot;&gt;stand-alone installer&lt;/a&gt; or through our &lt;a href=&quot;http://tools.jboss.org/downloads/overview.html&quot;&gt;JBoss Tools Download Site&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;For a complete set of Integration Stack installation instructions, see &lt;a href=&quot;https://access.redhat.com/documentation/en-us/red_hat_jboss_developer_studio_integration_stack/12.0/html/installation_guide/&quot;&gt;Integration Stack Installation Guide&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;em&gt;Let us know how it goes!&lt;/em&gt;&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Paul Leacu.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Mon, 03 Jun 2019 08:03:56 +0000</pubDate>
+</item>
+<item>
+	<title>PapyrusUML: Getting Started with Papyrus UMLLight</title>
+	<guid isPermaLink="false">http://papyrusuml.wordpress.com/?p=2337</guid>
+	<link>https://papyrusuml.wordpress.com/2019/06/03/getting-started-with-papyrus-umllight/</link>
+	<description>&lt;p&gt;Well… It took some time but there is finally a tutorial for Papyrus UMLLight!&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href=&quot;https://wiki.eclipse.org/Getting_Started_with_Papyrus_UMLLight&quot;&gt;This tutorial&lt;/a&gt; was developed within the  Papyrus UMLLight wiki, so it is available online .&lt;/p&gt;
+
+
+
+&lt;p&gt;It covers the audience we targeted for this tool, how Papyrus UMLLight is both different  and similar to Papyrus , and provides exercises to show its capabilities.&lt;/p&gt;
+
+
+
+&lt;p&gt;And yes, you can comment about it (on its discussion page)&lt;/p&gt;
+
+
+
+&lt;p&gt;And now to start work on the musical! &lt;img alt=&quot;😉&quot; class=&quot;wp-smiley&quot; src=&quot;https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f609.png&quot; style=&quot;height: 1em;&quot; /&gt;&lt;/p&gt;</description>
+	<pubDate>Mon, 03 Jun 2019 08:00:21 +0000</pubDate>
+</item>
+<item>
+	<title>vert.x project: VS Code Vert.x Starter Extension</title>
+	<guid isPermaLink="true">https://vertx.io/blog/vs-code-vert-x-starter-extension</guid>
+	<link>https://vertx.io/blog/vs-code-vert-x-starter-extension</link>
+	<description>&lt;article&gt;&lt;p&gt;Hi Vert.x community! Today, we are really excited to announce the &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=danielpetisme.vscode-vertx-starter&quot;&gt;Visual Studio Code Vert.x Starter&lt;/a&gt; extension.&lt;/p&gt;
+&lt;p&gt;The extension is a community contribution made by &lt;a href=&quot;https://twitter.com/danielpetisme&quot;&gt;Daniel Petisme (@danielpetisme)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=R3ZbQ_5Jf4M&quot; title=&quot;VSCode Vert.x Starter extension&quot;&gt;&lt;img alt=&quot;VSCode Vert.x Starter extension&quot; src=&quot;http://img.youtube.com/vi/R3ZbQ_5Jf4M/0.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Click on the image to watch the video on YouTube&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;usage&quot;&gt;Usage&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;Visual Studio Code&lt;/a&gt; is a popular code editor with a lot of additional extensions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=danielpetisme.vscode-vertx-starter&quot;&gt;Visual Studio Code Vert.x Starter&lt;/a&gt; extension allows your to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a Vert.x project&lt;/li&gt;
+&lt;li&gt;Customize the creation (Vert.x version, language, build tool, &lt;code&gt;groupId&lt;/code&gt;, &lt;code&gt;artifactId&lt;/code&gt;, package name, JDK version)&lt;/li&gt;
+&lt;li&gt;Search for dependencies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The extension can be configured to match your context (e.g. defining your default company &lt;code&gt;groupId&lt;/code&gt;).&lt;/p&gt;
+&lt;h2 id=&quot;how-it-works&quot;&gt;How it works&lt;/h2&gt;
+&lt;p&gt;Behind the scene, the extension relies on the Vert.x application generator API and demonstrate how easy it is to develop your own IDE plugin or custom tooling to generate Vert.x projects.
+For further details about the &lt;a href=&quot;https://start.vertx.io&quot;&gt;start.vertx.io&lt;/a&gt; API, please refer to the &lt;a href=&quot;https://github.com/vert-x3/vertx-starter&quot;&gt;Vert.x Starter project on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;questions-&quot;&gt;Questions?&lt;/h2&gt;
+&lt;p&gt;Feel free to ask questions or propose new features on the &lt;a href=&quot;https://github.com/danielpetisme/vscode-vertx-starter&quot;&gt;VSCode Vert.x Starter GitHub repository&lt;/a&gt;.&lt;/p&gt;
+&lt;/article&gt;</description>
+	<pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: EclipseCon Europe 2019: Call for Papers open until July 15 - Submit a talk today!</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/_BJJuDPZEvs/eclipsecon-europe-2019-call-papers-open-until-july-15-submit-talk-today</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/_BJJuDPZEvs/eclipsecon-europe-2019-call-papers-open-until-july-15-submit-talk-today</link>
+	<description>Submit your proposals to be part of ECE's 2019 speaker lineup. The conference is in Ludwigsburg, Germany Oct 21-24, 2019&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/_BJJuDPZEvs&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 28 May 2019 16:15:00 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: Election time for Jakarta EE Working Group Committees!</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/V9q4ZKnlxcM/election-time-jakarta-ee-working-group-committees</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/V9q4ZKnlxcM/election-time-jakarta-ee-working-group-committees</link>
+	<description>The elected positions are to represent each of the Enterprise Members, Participant Members, and Committer Members.&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/V9q4ZKnlxcM&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 28 May 2019 16:15:00 +0000</pubDate>
+</item>
+<item>
+	<title>Donald Raab: Graduating from Minimal to Rich Java APIs</title>
+	<guid isPermaLink="false">https://medium.com/p/c50192c8322f</guid>
+	<link>https://medium.com/oracledevs/graduating-from-minimal-to-rich-java-apis-c50192c8322f?source=rss-df39b86e9f04------2</link>
+	<description>&lt;p&gt;Combining ease of learning with reduced code duplication for greater productivity.&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*w-3rHigMPF3FM53M8rESgg.png&quot; /&gt;Happy Birthday Java!&lt;/figure&gt;&lt;h3&gt;Happy Birthday Java&lt;/h3&gt;&lt;p&gt;Java turned 24 years old on May 23rd, 2019. This is an impressive amount of time for a programming language to be successful and to continue growing its developer community. Java continues to evolve, and the Java Community continues to innovate and grow.&lt;/p&gt;&lt;p&gt;Up until Java 8 (released in 2014), Java has more or less adhered to a minimal API design philosophy. This has worked out extremely well for Java, as a minimal API design tends to lower the initial learning curve and increase adoption by only requiring developers to learn a few basic concepts.&lt;/p&gt;&lt;h3&gt;Minimal API Design of Collections&lt;/h3&gt;&lt;p&gt;The &lt;a href=&quot;https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html&quot;&gt;Collection&lt;/a&gt; interface has been available in Java since December 1998 when Java 2 was released. Collection has several mutating APIs including add, addAll, remove, removeAll, retainAll and clear. There are several testing methods including contains, containsAll, isEmpty and size. Every Collection can return its contents using the method toArray. The method &lt;em&gt;iterator&lt;/em&gt; allows for any iteration pattern to be implemented using a for loop or while loop. In March 2014, Java 8 was released and the &lt;a href=&quot;https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html&quot;&gt;Stream&lt;/a&gt; interface was added with built-in iteration patterns (e.g. filter, map, reduce). The Collection interface was updated to include new default methods including the forEach, stream and parallelStream methods.&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*jTxgoa2NbaQdIAj3vGCI0g.png&quot; /&gt;Collection API (1998), and Stream API (2014), with new default methods added on Collection&lt;/figure&gt;&lt;h3&gt;Graduating to higher-level APIs&lt;/h3&gt;&lt;p&gt;As a programming language matures and enjoys mass adoption, it becomes important to address the needs of a more experienced developer population and to remain competitive with newer more nimble programming languages that may not be as concerned with preserving backwards compatibility between versions. The Java developer population (estimates around 12 million now) is already very familiar with the Java Collections APIs that have been available for over 20 years. Java is a great general purpose programming language, and gives developers the basic tools they need to create great applications. Since Java 8 was released, Java has started introducing higher-level APIs, especially in the Collections space. The Stream API which was added in Java 8 adds functional APIs to the existing Collection interfaces.&lt;/p&gt;&lt;p&gt;The &lt;a href=&quot;https://docs.oracle.com/javase/8/docs/api/java/util/List.html&quot;&gt;List&lt;/a&gt; interface has also had a few new default methods added since Java 8. For example, we finally have a sort method available directly on List. Developers have been using the Collections class to sort instances of List since Java 2. Here is what the List interface looks like since Java 8.&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*vyEwOnwVEgiN7Vpul0IMMw.png&quot; /&gt;List interface (December 1998) with default methods added (March 2014)&lt;/figure&gt;&lt;p&gt;Most of the new functionality provided in Java 8 for Collection and List is available by calling the stream method, and then calling an appropriate method available on the Stream interface. The behaviors available on Stream interface are further extended by the collect method which can be passed a Collector. The method named collect on Stream is often described as a mutable reduction. There are a stock set of Collector implementations available on the &lt;a href=&quot;https://docs.oracle.com/javase/8/docs/api/java/util/stream/Collectors.html&quot;&gt;Collectors&lt;/a&gt; class included since Java 8. &lt;a href=&quot;https://github.com/donraab/eclipse-collections&quot;&gt;Eclipse Collections&lt;/a&gt; adds its own set of Collector implementations in its &lt;a href=&quot;https://www.eclipse.org/collections/javadoc/9.2.0/org/eclipse/collections/impl/collector/Collectors2.html&quot;&gt;Collectors2&lt;/a&gt; class.&lt;/p&gt;&lt;p&gt;If we combine all of the functionality available in the List, Stream and Collectors class, you will see an evolution from the minimal API design of old, to a new richer API design.&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*zY7B_wJfTFvCEOB0Z2QVUw.png&quot; /&gt;Combining the List, Stream and Collectors APIs&lt;/figure&gt;&lt;p&gt;Compare the combination API of List, Stream and Collectors with the existing rich API design in the &lt;a href=&quot;https://github.com/donraab/eclipse-collections&quot;&gt;Eclipse Collections&lt;/a&gt; &lt;a href=&quot;https://www.eclipse.org/collections/javadoc/9.2.0/org/eclipse/collections/api/list/MutableList.html&quot;&gt;MutableList&lt;/a&gt; class, and you will begin to see some common patterns between them (sometimes with different names). These patterns are not new. They have been known and available for a very long time in different programming languages, but are now being discovered and learned by the Java developer community.&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*e9xRYAcS7NeGVJBXqJpp6w.png&quot; /&gt;MutableList methods in Eclipse Collections&lt;/figure&gt;&lt;p&gt;Higher-level APIs help developers address a fundamental problem that minimal APIs can help create — Code Duplication. As you can see in the &lt;a href=&quot;https://github.com/donraab/eclipse-collections&quot;&gt;Eclipse Collections&lt;/a&gt; MutableList interface, there are a large number of iteration patterns that were not included in the original minimal API design of the Java List interface. Because these iteration patterns were not provided in higher-level Java APIs along with the language, developers were required to implement these patterns on their own using the basic building blocks of iterator and indexed list access.&lt;/p&gt;&lt;p&gt;See my previous blog on &lt;a href=&quot;https://medium.com/@donraab/code-duplication-1e1f759a7fe3&quot;&gt;Code Duplication&lt;/a&gt; to learn more about iteration patterns.&lt;/p&gt;&lt;h3&gt;Advanced Learning vs. Basic Duplication&lt;/h3&gt;&lt;p&gt;Proponents of minimal API design will usually argue that a minimal API is easier to learn. This is true. If you believe that all you need to write code with Collections is an iterator and a for loop, you are correct. However, if all you have is an iterator, you will have to iterate the same patterns over and over again (Hammer, meet nail). More importantly, you will be leaving duplicate code for future readers to have to read.&lt;/p&gt;&lt;blockquote&gt;The more code you have to write, the more code others have to read.&lt;/blockquote&gt;&lt;p&gt;A Minimal API design results in more code having to be written, tested and maintained by application developers. A Rich API design results in more code having to be written, tested and maintained by library developers. If we all had shared code ownership over all the code written in the world, we would probably agree the least costly alternative would be to lean on library and language developers when appropriate to provide rich APIs for developers to use.&lt;/p&gt;&lt;blockquote&gt;Once you know the basics, learning more advanced concepts is a good thing&lt;/blockquote&gt;&lt;p&gt;Minimal API design has served its purpose well for the first 24 years of Java. It has led to mass adoption the Java programming language. Java developers have learned the basic patterns of using iterators, and are ready and willing to learn and graduate to using higher-level APIs.&lt;/p&gt;&lt;h3&gt;Too Minimal == Anemic &amp;amp;&amp;amp; Too Rich == Bloated&lt;/h3&gt;&lt;p&gt;It is both possible to have too little or too much API. Somewhere in the middle, an API will feel “Just Right”. Java complicates this goal for API designers by having support of both Object and primitive types.&lt;/p&gt;&lt;p&gt;Eclipse Collections provides as much interoperability as possible between Object and primitive types in Java. This results sometimes in a multiplicative effect in the number of APIs required. For example, the collect and sort methods on MutableList all have primitive versions for each of the primitive types. If we reduce the total number methods down to the number of total core concepts, the number of new concepts a developer has to learn is more reasonable. For instance, if you learn the &lt;em&gt;collect&lt;/em&gt; pattern in Eclipse Collections, which is a core concept, you will already know how all of the &lt;em&gt;collect*&lt;/em&gt; (e.g. collectInt, collectShort, etc.) methods work.&lt;/p&gt;&lt;p&gt;In the following picture, I’ve included only the core conceptual API of MutableList. I have dropped all “With” methods and all of the primitive methods except for “Int”. This removed around 40 methods total from the output.&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*HNVLf6TZQlBTvGAF91JzNw.png&quot; /&gt;MutableList Core Concepts&lt;/figure&gt;&lt;p&gt;It is enough to know how one primitive method works in order to understand how all of the other primitive methods work. If the developers of an API have &lt;a href=&quot;https://medium.com/@donraab/symmetric-sympathy-2c59d4541d60&quot;&gt;Symmetric Sympathy&lt;/a&gt;, you will be able to easily understand and use each core API concept everywhere it is provided.&lt;/p&gt;&lt;h3&gt;The evolution of Java Date and Time&lt;/h3&gt;&lt;p&gt;Another example of an evolutionary change from a minimal API to a Rich API is in the Java Time library. Compare the methods on the Date class and LocalDate class available since Java 8.&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*kgLwggED-S8HzFyAhDiXKQ.png&quot; /&gt;Date compared to LocalDate&lt;/figure&gt;&lt;p&gt;The Java time library has a much more humane API for dealing with dates and time. It does a great job balancing richness and minimalism.&lt;/p&gt;&lt;h3&gt;The source of the source&lt;/h3&gt;&lt;p&gt;The following source code was used to output all of the above APIs. You can use it output any methods of any classes you want. Try changing the Function for the grouping to get a different view into an API.&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*ghO9ZlT1EIpHC8Q1bBNzHA.png&quot; /&gt;&lt;/figure&gt;&lt;pre&gt;public void outputMethodsByFirstLetter(Class&amp;lt;?&amp;gt;... classes)&lt;br /&gt;{&lt;br /&gt;    Function&amp;lt;Method, Character&amp;gt; firstLetter =&lt;br /&gt;            method -&amp;gt; Character.&lt;em&gt;valueOf&lt;/em&gt;(method.getName().charAt(0));&lt;br /&gt;&lt;br /&gt;    String classNamesString =&lt;br /&gt;            ArrayIterate.&lt;em&gt;collect&lt;/em&gt;(classes, Class::getSimpleName)&lt;br /&gt;                    .makeString();&lt;br /&gt;&lt;br /&gt;    System.&lt;strong&gt;&lt;em&gt;out&lt;/em&gt;&lt;/strong&gt;.println(&lt;br /&gt;            classNamesString);&lt;br /&gt;    System.&lt;strong&gt;&lt;em&gt;out&lt;/em&gt;&lt;/strong&gt;.println(&lt;br /&gt;            StringIterate.&lt;em&gt;repeat&lt;/em&gt;(&lt;strong&gt;'-'&lt;/strong&gt;, classNamesString.length()));&lt;br /&gt;&lt;br /&gt;    MutableList&amp;lt;Method&amp;gt; methods =&lt;br /&gt;            ArrayIterate.&lt;em&gt;flatCollect&lt;/em&gt;(&lt;br /&gt;                    classes,&lt;br /&gt;                    each -&amp;gt; ArrayAdapter.&lt;em&gt;adapt&lt;/em&gt;(each.getMethods()));&lt;br /&gt;&lt;br /&gt;    String output = methods.groupBy(firstLetter)&lt;br /&gt;            .collectValues(&lt;br /&gt;                    Method::getName,&lt;br /&gt;                    TreeSortedSetMultimap.&lt;em&gt;newMultimap&lt;/em&gt;())&lt;br /&gt;            .keyMultiValuePairsView()&lt;br /&gt;            .toSortedListBy(Pair::getOne)&lt;br /&gt;            .makeString(&lt;strong&gt;&quot;\n&quot;&lt;/strong&gt;);&lt;br /&gt;&lt;br /&gt;    System.&lt;strong&gt;&lt;em&gt;out&lt;/em&gt;&lt;/strong&gt;.println(output);&lt;br /&gt;    System.&lt;strong&gt;&lt;em&gt;out&lt;/em&gt;&lt;/strong&gt;.println();&lt;br /&gt;}&lt;/pre&gt;&lt;h4&gt;Update: June 3, 2019&lt;/h4&gt;&lt;p&gt;The following source will show you the symmetric difference and intersection of two APIs. Just change the two classes you want to compare in the first method.&lt;/p&gt;&lt;pre&gt;@Test&lt;br /&gt;public void symmetricDifferenceAndIntersectionOfApis()&lt;br /&gt;{&lt;br /&gt;    this.symmetricDiffAndIntersectionOfApis(Collectors.class, Collectors2.class);&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;public void symmetricDiffAndIntersectionOfApis(Class&amp;lt;?&amp;gt; classOne, Class&amp;lt;?&amp;gt; classTwo)&lt;br /&gt;{&lt;br /&gt;    MutableSet&amp;lt;String&amp;gt; leftMethods =&lt;br /&gt;            Sets.&lt;strong&gt;&lt;em&gt;mutable&lt;/em&gt;&lt;/strong&gt;.with(classOne.getMethods())&lt;br /&gt;                    .collect(this::methodNamePlusParms);&lt;br /&gt;    MutableSet&amp;lt;String&amp;gt; rightMethods =&lt;br /&gt;            Sets.&lt;strong&gt;&lt;em&gt;mutable&lt;/em&gt;&lt;/strong&gt;.with(classTwo.getMethods())&lt;br /&gt;                    .collect(this::methodNamePlusParms);&lt;br /&gt;&lt;br /&gt;    String classNames = classOne.getSimpleName() + &lt;br /&gt;            &lt;strong&gt;&quot;, &quot; &lt;/strong&gt;+ &lt;br /&gt;            classTwo.getSimpleName();&lt;br /&gt;    this.symmetricDifference(leftMethods, rightMethods, classNames);&lt;br /&gt;    this.intersection(leftMethods, rightMethods, classNames);&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;private String methodNamePlusParms(Method method)&lt;br /&gt;{&lt;br /&gt;    return method.getName() + &lt;strong&gt;&quot;(&quot; &lt;/strong&gt;+&lt;br /&gt;            ArrayIterate.&lt;em&gt;collect&lt;/em&gt;(method.getParameters(), Parameter::getType)&lt;br /&gt;                    .collect(Class::getSimpleName)&lt;br /&gt;                    .makeString() + &lt;strong&gt;&quot;)&quot;&lt;/strong&gt;;&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;private void symmetricDifference(&lt;br /&gt;        MutableSet&amp;lt;String&amp;gt; leftMethods,&lt;br /&gt;        MutableSet&amp;lt;String&amp;gt; rightMethods,&lt;br /&gt;        String classNames)&lt;br /&gt;{&lt;br /&gt;    System.&lt;strong&gt;&lt;em&gt;out&lt;/em&gt;&lt;/strong&gt;.println(&lt;strong&gt;&quot;Symmetric Difference (&quot; &lt;/strong&gt;+ classNames + &lt;strong&gt;&quot;)&quot;&lt;/strong&gt;);&lt;br /&gt;    System.&lt;strong&gt;&lt;em&gt;out&lt;/em&gt;&lt;/strong&gt;.println(&lt;br /&gt;            StringIterate.&lt;em&gt;repeat&lt;/em&gt;(&lt;strong&gt;'-'&lt;/strong&gt;, &lt;br /&gt;                    (&lt;strong&gt;&quot;Symmetric Difference (&quot; &lt;/strong&gt;+ classNames + &lt;strong&gt;&quot;)&quot;&lt;/strong&gt;)&lt;br /&gt;                    .length()));&lt;br /&gt;    this.outputGroupByToString(leftMethods.symmetricDifference(rightMethods));&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;private void intersection(&lt;br /&gt;        MutableSet&amp;lt;String&amp;gt; leftMethods,&lt;br /&gt;        MutableSet&amp;lt;String&amp;gt; rightMethods,&lt;br /&gt;        String classNames)&lt;br /&gt;{&lt;br /&gt;    System.&lt;strong&gt;&lt;em&gt;out&lt;/em&gt;&lt;/strong&gt;.println(&lt;strong&gt;&quot;Intersection (&quot; &lt;/strong&gt;+ classNames + &lt;strong&gt;&quot;)&quot;&lt;/strong&gt;);&lt;br /&gt;    System.&lt;strong&gt;&lt;em&gt;out&lt;/em&gt;&lt;/strong&gt;.println(&lt;br /&gt;            StringIterate.&lt;em&gt;repeat&lt;/em&gt;(&lt;strong&gt;'-'&lt;/strong&gt;, &lt;br /&gt;                    (&lt;strong&gt;&quot;Intersection (&quot; &lt;/strong&gt;+ classNames + &lt;strong&gt;&quot;)&quot;&lt;/strong&gt;)&lt;br /&gt;                    .length()));&lt;br /&gt;    this.outputGroupByToString(leftMethods.intersect(rightMethods));&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;private void outputGroupByToString(RichIterable&amp;lt;String&amp;gt; methods)&lt;br /&gt;{&lt;br /&gt;    Function&amp;lt;String, Character&amp;gt; firstLetter = string -&amp;gt; Character.&lt;em&gt;valueOf&lt;/em&gt;(string.charAt(0));&lt;br /&gt;&lt;br /&gt;    String output = methods.groupBy(firstLetter)&lt;br /&gt;            .collectValues(&lt;br /&gt;                    each -&amp;gt; each,&lt;br /&gt;                    TreeSortedSetMultimap.&lt;em&gt;newMultimap&lt;/em&gt;())&lt;br /&gt;            .keyMultiValuePairsView()&lt;br /&gt;            .toSortedListBy(Pair::getOne)&lt;br /&gt;            .makeString(&lt;strong&gt;&quot;\n&quot;&lt;/strong&gt;);&lt;br /&gt;&lt;br /&gt;    System.&lt;strong&gt;&lt;em&gt;out&lt;/em&gt;&lt;/strong&gt;.println(output);&lt;br /&gt;    System.&lt;strong&gt;&lt;em&gt;out&lt;/em&gt;&lt;/strong&gt;.println();&lt;br /&gt;}&lt;/pre&gt;&lt;h4&gt;Update: June 5, 2019&lt;/h4&gt;&lt;p&gt;I refactored the code for calculating the symmetric difference and intersection to use MutableSortedSet instead of MutableSet.&lt;/p&gt;&lt;pre&gt;@Test&lt;br /&gt;public void symmetricDifferenceAndIntersectionOfApis()&lt;br /&gt;{&lt;br /&gt;    this.symmetricDiffAndIntersectionOfApis(&lt;br /&gt;            Tuples.&lt;em&gt;twin&lt;/em&gt;(StringBuffer.class, &lt;br /&gt;                    StringBuilder.class));&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;private void symmetricDiffAndIntersectionOfApis(Twin&amp;lt;Class&amp;lt;?&amp;gt;&amp;gt; classPair)&lt;br /&gt;{&lt;br /&gt;    MutableSortedSet&amp;lt;String&amp;gt; leftMethods = &lt;br /&gt;            this.getMethodNames(classPair.getOne());&lt;br /&gt;    MutableSortedSet&amp;lt;String&amp;gt; rightMethods = &lt;br /&gt;            this.getMethodNames(classPair.getTwo());&lt;br /&gt;&lt;br /&gt;    this.output(classPair, &lt;strong&gt;&quot;Symmetric Difference&quot;&lt;/strong&gt;, &lt;br /&gt;            leftMethods.symmetricDifference(rightMethods));&lt;br /&gt;    this.output(classPair, &lt;strong&gt;&quot;Intersection&quot;&lt;/strong&gt;, &lt;br /&gt;            leftMethods.intersect(rightMethods));&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;private void output(Twin&amp;lt;Class&amp;lt;?&amp;gt;&amp;gt; classPair, &lt;br /&gt;                    String operation, &lt;br /&gt;                    RichIterable&amp;lt;String&amp;gt; strings)&lt;br /&gt;{&lt;br /&gt;    this.outputTitle(operation + &lt;strong&gt;&quot; (&quot; &lt;/strong&gt;+ this.classNames(classPair) + &lt;strong&gt;&quot;)&quot;&lt;/strong&gt;);&lt;br /&gt;    this.outputGroupByToString(strings);&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;private String classNames(Twin&amp;lt;Class&amp;lt;?&amp;gt;&amp;gt; classPair)&lt;br /&gt;{&lt;br /&gt;    return classPair.getOne().getSimpleName() + &lt;br /&gt;            &lt;strong&gt;&quot;, &quot; &lt;/strong&gt;+ &lt;br /&gt;            classPair.getTwo().getSimpleName();&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;private MutableSortedSet&amp;lt;String&amp;gt; getMethodNames(Class&amp;lt;?&amp;gt; classOne)&lt;br /&gt;{&lt;br /&gt;    return ArrayIterate.&lt;em&gt;collect&lt;/em&gt;(&lt;br /&gt;            classOne.getMethods(), &lt;br /&gt;            this::methodNamePlusParms, &lt;br /&gt;            SortedSets.&lt;strong&gt;&lt;em&gt;mutable&lt;/em&gt;&lt;/strong&gt;.empty());&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;private String methodNamePlusParms(Method method)&lt;br /&gt;{&lt;br /&gt;    return method.getName() + &lt;strong&gt;&quot;(&quot; &lt;/strong&gt;+ this.parameterNames(method) + &lt;strong&gt;&quot;)&quot;&lt;/strong&gt;;&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;private String parameterNames(Method method)&lt;br /&gt;{&lt;br /&gt;    return ArrayIterate.&lt;em&gt;collect&lt;/em&gt;(&lt;br /&gt;            method.getParameters(), &lt;br /&gt;            parm -&amp;gt; parm.getType().getSimpleName())&lt;br /&gt;            .makeString();&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;private void outputTitle(String title)&lt;br /&gt;{&lt;br /&gt;    System.&lt;strong&gt;&lt;em&gt;out&lt;/em&gt;&lt;/strong&gt;.println(title);&lt;br /&gt;    System.&lt;strong&gt;&lt;em&gt;out&lt;/em&gt;&lt;/strong&gt;.println(&lt;br /&gt;            StringIterate.&lt;em&gt;repeat&lt;/em&gt;(&lt;strong&gt;'-'&lt;/strong&gt;, (title).length()));&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;private void outputGroupByToString(RichIterable&amp;lt;String&amp;gt; methods)&lt;br /&gt;{&lt;br /&gt;    String output = methods.groupBy(string -&amp;gt; string.charAt(0))&lt;br /&gt;            .keyMultiValuePairsView()&lt;br /&gt;            .toSortedListBy(Pair::getOne)&lt;br /&gt;            .makeString(&lt;strong&gt;&quot;\n&quot;&lt;/strong&gt;);&lt;br /&gt;&lt;br /&gt;    System.&lt;strong&gt;&lt;em&gt;out&lt;/em&gt;&lt;/strong&gt;.println(output);&lt;br /&gt;    System.&lt;strong&gt;&lt;em&gt;out&lt;/em&gt;&lt;/strong&gt;.println();&lt;br /&gt;}&lt;/pre&gt;&lt;h3&gt;Learn something new every day&lt;/h3&gt;&lt;p&gt;Some developers may find a comprehensive API like Eclipse Collections intimidating. The good news is that with Eclipse Collections, you can learn and use the API at your own pace. For instance, MutableList extends java.util.List, so if you are familiar with the List API in Java, you are already familiar with the basics of the MutableList API in Eclipse Collections. If you have already been investing in learning Java Streams and Collectors, you can use these concepts with Eclipse Collections types as well. There are also more convenient eager methods directly on the collection types like MutableList themselves. If some of the different method names in Eclipse Collections seem strange, don’t worry there is a &lt;a href=&quot;https://medium.com/@donraab/a-rose-by-any-other-name-e15060d4c98e&quot;&gt;blog that can help you translate from Streams method names to Eclipse Collections method names&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Learning new things like iteration patterns will help you become a better developer in any language you program in. Over the years, I have learned and experimented with iteration pattern APIs in Smalltalk, Ruby, Scala, Groovy, Haskell, Clojure, Python and JavaScript. I’ve also written katas comparing five different Java Collections Frameworks. This makes it easier for me to travel between any of these languages and libraries when dealing with collections.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections&quot;&gt;&lt;em&gt;Eclipse Collections&lt;/em&gt;&lt;/a&gt;&lt;em&gt; is open for &lt;/em&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections/blob/master/CONTRIBUTING.md&quot;&gt;&lt;em&gt;contributions&lt;/em&gt;&lt;/a&gt;&lt;em&gt;. If you like the library, you can let us know by starring it on GitHub.&lt;/em&gt;&lt;/p&gt;&lt;img height=&quot;1&quot; src=&quot;https://medium.com/_/stat?event=post.clientViewed&amp;amp;referrerSource=full_rss&amp;amp;postId=c50192c8322f&quot; width=&quot;1&quot; /&gt;&lt;hr /&gt;&lt;p&gt;&lt;a href=&quot;https://medium.com/oracledevs/graduating-from-minimal-to-rich-java-apis-c50192c8322f&quot;&gt;Graduating from Minimal to Rich Java APIs&lt;/a&gt; was originally published in &lt;a href=&quot;https://medium.com/oracledevs&quot;&gt;Oracle Developers&lt;/a&gt; on Medium, where people are continuing the conversation by highlighting and responding to this story.&lt;/p&gt;</description>
+	<pubDate>Tue, 28 May 2019 03:35:29 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: Statement by the Eclipse Foundation on Huawei Entity List Ruling</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/3gk5pDW6B_A/20190527-EAR.php</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/3gk5pDW6B_A/20190527-EAR.php</link>
+	<description>Open Source projects involving encryption software source code are still required to send a notice of the URL to BIS and NSA to satisfy the &quot;publicly available&quot; notice requirement in EAR § 742.15(b)&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/3gk5pDW6B_A&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Mon, 27 May 2019 14:15:00 +0000</pubDate>
+</item>
+
+</channel>
+</rss>

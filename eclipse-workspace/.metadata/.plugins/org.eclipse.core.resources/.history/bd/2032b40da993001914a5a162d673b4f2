@@ -1,0 +1,13 @@
+import java.io.File;
+
+public class WrintingFiles {
+
+	public static void main(String[] args) {
+		
+		
+		File f = new File("/Users/jdakshini/myTextFile.txt");
+		
+
+	}
+
+}

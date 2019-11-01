@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;collectionExample&apos; to &apos;Java_Concept/src&apos;&#x0A;- Original project: &apos;collectionExample&apos;&#x0A;- Destination element: &apos;Java_Concept/src&apos;&#x0A;- Original element: &apos;collectionExample/src/collectionExample&apos;&#x0A;- Update references to refactored element" description="Move package" destination="=Java_Concept/src" element1="/src&lt;collectionExample" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1562647490400" version="1.0"/>
+</session>

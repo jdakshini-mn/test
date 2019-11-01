@@ -1,0 +1,10 @@
+package cpqdemo1;
+
+public class my1stscript {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

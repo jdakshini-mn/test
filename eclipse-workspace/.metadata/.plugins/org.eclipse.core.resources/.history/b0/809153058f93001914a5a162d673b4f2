@@ -1,0 +1,13 @@
+package test;
+
+public class testCase1 {
+
+	public static void main(String[] args) {
+		
+		
+		Properties prop = new Properties();
+		FileInputStream fis = new FileInputStream("\\Users\\jdakshini\\eclipse-workspace\\Read_Property_Project\\src\\Config\\object.properties");
+
+	}
+
+}

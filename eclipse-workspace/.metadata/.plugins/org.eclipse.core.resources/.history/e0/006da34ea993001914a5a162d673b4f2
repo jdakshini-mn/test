@@ -1,0 +1,16 @@
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class WrintingFiles {
+
+	public static void main(String[] args) {
+		
+		
+		File f = new File("/Users/jdakshini/myTextFile.txt");
+		FileWriter fw = new FileWriter(f);
+		BufferedWrinter = new BufferedWrinter(fw);
+
+	}
+
+}

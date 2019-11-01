@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;SeleniumThree&apos;&#x0A;- Original project: &apos;SeleniumThree&apos;&#x0A;- Original element: &apos;SeleniumThree/src/org.openqa.selenium.remote.session&apos;" description="Delete element" element1="/src&lt;org.openqa.selenium.remote.session" element2="/src&lt;org.openqa.selenium.remote" element3="/src&lt;org.openqa.selenium" element4="/src&lt;org.openqa" element5="/src&lt;org" elements="5" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1563257832858" subPackages="false" version="1.0"/>
+</session>
