@@ -16,7 +16,7 @@
      <!-- File Appender -->
     
      <appender name="fileAppender" class="org.apache.log4j.FileAppender">
-        <param name="File" value="C:/selenium/CoreJavaTut/Log4JProj/src/Log4j.log" />
+        <param name="File" value="/Users/jdakshini/eclipse-workspace/log4JExp/src/Log4j.log" />
         <param name="Append" value="false" />
         <layout class="org.apache.log4j.PatternLayout">
           <param name="ConversionPattern" value="%d{dd/MM/yyyy HH:mm:ss} %-5p %c{2} - %m%n"/>
@@ -26,7 +26,7 @@
      <!-- HTML Appender -->
     
    <appender name="htmlAppender" class="org.apache.log4j.DailyRollingFileAppender">
-            <param name="File" value="C:/selenium/CoreJavaTut/Log4JProj/log.html"/>
+            <param name="File" value="/Users/jdakshini/eclipse-workspace/log4JExp/src/Log4j.html"/>
     	<param name="DatePattern" value="'.'yyyy-MM-dd-HH'.html'"/>
     	<layout class="org.apache.log4j.HTMLLayout"/>
           <!--/layout-->
@@ -34,13 +34,13 @@
     
        <!-- Email Appender -->
     
-    <appender name="ERROR_MAIL" class="SecureSMTPAppender">
+    <!--  >appender name="ERROR_MAIL" class="SecureSMTPAppender">
    <param name="SMTPUsername" value="java@way2automation.com" />
     <param name="SMTPPassword" value="8923567928475" />
     <param name="To" value="trainer@way2automation.com,seleniumcoaching@gmail.com"/>
     <param name="From" value="java@way2automation.com"/>
     <param name="Subject" value="Log4j Error in Project"/>
-    <param name="SMTPHost" value="smtp.gmail.com"/>
+    <param name="SMTPHost" value="smtp.gmail.com"/-->
     
     <param name="BufferSize" value="10"/>
       <layout class="org.apache.log4j.PatternLayout">

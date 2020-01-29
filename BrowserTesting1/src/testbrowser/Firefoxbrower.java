@@ -28,10 +28,16 @@ public class Firefoxbrower {
 		//String title = driver1.getTitle();
 		//System.out.println(title);
 		//System.out.println(title.length());
+	
 		WebElement username = findElement(By.id("identifierId"));
 		username.sendKeys("jdaksini@gmail.com");
 		
 
+	}
+
+	private static WebElement findElement(By id) {
+		// TODO Auto-generated method stub
+		return null;
 	}
 
 }
